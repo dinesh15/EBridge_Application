@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517641689157",
+    "project_id": "ebridge-444a0",
+    "storage_bucket": "ebridge-444a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517641689157:android:d7486f45b666622270ab2c",
+        "android_client_info": {
+          "package_name": "com.example.ebridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517641689157-1hlo8t9r999pg72hnj6o6uia5husrjml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-rgDelfZpBoK2GS408_9nPd77U8E2PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517641689157-1hlo8t9r999pg72hnj6o6uia5husrjml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
