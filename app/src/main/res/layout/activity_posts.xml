@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="10dp"
-    tools:context=".SubjectsActivity">
+    tools:context=".PostsActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -21,8 +21,9 @@
             android:ems="10"
             android:inputType="textPersonName"
             android:minHeight="48dp"
-            android:text="Subjects"
-            android:textSize="28dp" />
+            android:text="@string/posts"
+            android:textSize="28sp"
+            tools:ignore="TextViewEdits" />
 
         <androidx.recyclerview.widget.RecyclerView
             android:layout_width="371dp"
@@ -37,21 +38,21 @@
                 android:id="@+id/login2"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/login_password"
-                android:layout_marginLeft="40dp"
+                android:layout_marginStart="40dp"
                 android:layout_marginTop="10dp"
-                android:text="EDIT" />
+                android:text="@string/edit"
+                style="?android:attr/buttonBarButtonStyle" />
 
             <Button
                 android:id="@+id/login3"
-                android:layout_width="150dp"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/login_password"
-                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
                 android:layout_marginTop="10dp"
-                android:layout_marginRight="50dp"
+                android:layout_marginEnd="50dp"
                 android:layout_weight="1"
-                android:text="DELETE" />
+                android:text="@string/delete"
+                style="?android:attr/buttonBarButtonStyle" />
         </LinearLayout>
     </LinearLayout>
 
