@@ -3,6 +3,7 @@ package com.example.ebridge.Model;
 import java.util.ArrayList;
 
 public abstract class User implements UserI{
+    private int id;
     private String email;
     private String password;
     private String firstname;
@@ -13,7 +14,8 @@ public abstract class User implements UserI{
 
     }
 
-    public User(String email, String password, String firstname, String lastname, String address) {
+    public User(int id, String email, String password, String firstname, String lastname, String address) {
+        this.id = id;
         this.email = email;
         this.password = password;
         this.firstname = firstname;
