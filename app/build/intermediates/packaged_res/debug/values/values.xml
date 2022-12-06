@@ -7,16 +7,35 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="action_settings">Settings</string>
     <string name="app_name">EBridge</string>
     <string name="default_web_client_id" translatable="false">517641689157-1hlo8t9r999pg72hnj6o6uia5husrjml.apps.googleusercontent.com</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
     <string name="gcm_defaultSenderId" translatable="false">517641689157</string>
     <string name="google_api_key" translatable="false">AIzaSyBD-rgDelfZpBoK2GS408_9nPd77U8E2PA</string>
     <string name="google_app_id" translatable="false">1:517641689157:android:d7486f45b666622270ab2c</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBD-rgDelfZpBoK2GS408_9nPd77U8E2PA</string>
     <string name="google_storage_bucket" translatable="false">ebridge-444a0.appspot.com</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Slideshow</string>
     <string name="nav_close">Close</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
     <string name="nav_open">Open</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="posts">Posts</string>
     <string name="project_id" translatable="false">ebridge-444a0</string>
+    <string name="schedules">Schedules</string>
+    <string name="title_activity_drawer">Drawer</string>
     <style name="Theme.EBridge" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
@@ -30,4 +49,10 @@
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
         
     </style>
+    <style name="Theme.EBridge.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.EBridge.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.EBridge.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 </resources>
