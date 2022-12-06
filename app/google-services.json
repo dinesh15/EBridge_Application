@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "517641689157",
+    "firebase_url": "https://ebridge-444a0-default-rtdb.firebaseio.com",
     "project_id": "ebridge-444a0",
     "storage_bucket": "ebridge-444a0.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "517641689157-o3a64u41s3gn82k9rbt74orlk1d63djo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ebridge",
+            "certificate_hash": "8d4a4ca639d382d1fb1179cac714f7e52f61e974"
+          }
+        },
         {
           "client_id": "517641689157-1hlo8t9r999pg72hnj6o6uia5husrjml.apps.googleusercontent.com",
           "client_type": 3

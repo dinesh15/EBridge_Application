@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ebridge.app-mergeDebugResources-33:/values-v16/values-v16.xml",
+            "outputFile": "com.example.ebridge.app-mergeDebugResources-34:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\d1278b834c44ef63e0cd766340cc5b6a\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\839b83960f36d628ccc03c15fb594093\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\2408ae0c6b64e074ad570504f0fa7cb6\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\bd43bf900f904ecf8e27953faa1f55e8\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

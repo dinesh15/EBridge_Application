@@ -16,10 +16,21 @@ public class Admin extends User {
     public Admin() {
 
     }
+    public Admin(int id,String username, String email, String password, String firstname, String lastname, String address) {
 
-    public Admin(int id, String email, String password, String firstname, String lastname, String address, ArrayList<Subject> subjects, ArrayList<Student> students, ArrayList<Faculty> teachers, ArrayList<Feedback> feedbacks, ArrayList<Notification> notifications, MessageMediator m) {
+        super(id,username, email, password, firstname, lastname, address);
+        super.setRole(3);
+        this.subjects = new ArrayList<>();
+        this.students = new ArrayList<>();
+        this.teachers = new ArrayList<>();
+        this.feedbacks = new ArrayList<>();
+        this.notifications = new ArrayList<>();
+        this.m = m;
+    }
 
-        super(id, email, password, firstname, lastname, address);
+    public Admin(int id,String username, String email, String password, String firstname, String lastname, String address, ArrayList<Subject> subjects, ArrayList<Student> students, ArrayList<Faculty> teachers, ArrayList<Feedback> feedbacks, ArrayList<Notification> notifications, MessageMediator m) {
+
+        super(id,username, email, password, firstname, lastname, address);
         this.subjects = subjects;
         this.students = students;
         this.teachers = teachers;

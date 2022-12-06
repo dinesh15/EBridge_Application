@@ -4,18 +4,22 @@ import java.util.ArrayList;
 
 public abstract class User implements UserI{
     private int id;
+    private String username;
     private String email;
     private String password;
     private String firstname;
     private String lastname;
     private String address;
+    private int role;
+
 
     public User() {
 
     }
 
-    public User(int id, String email, String password, String firstname, String lastname, String address) {
+    public User(int id, String username, String email, String password, String firstname, String lastname, String address) {
         this.id = id;
+        this.username = username;
         this.email = email;
         this.password = password;
         this.firstname = firstname;
@@ -37,6 +41,22 @@ public abstract class User implements UserI{
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public int getRole() {
+        return role;
+    }
+
+    public void setRole(int role) {
+        this.role = role;
     }
 
     public String getFirstname() {
