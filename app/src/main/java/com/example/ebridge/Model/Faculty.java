@@ -17,9 +17,9 @@ public class Faculty extends User{
 
     }
 
-    public Faculty(String email, String password, String firstname, String lastname, String address) {
-        super(email, password, firstname, lastname, address);
-        students = new ArrayList<>();
+    public Faculty(int id, String email, String password, String firstname, String lastname, String address, ArrayList<Student> students) {
+        super(id, email, password, firstname, lastname, address);
+        this.students = students;
     }
 
     public ArrayList<Student> getStudents() {

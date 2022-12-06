@@ -11,7 +11,7 @@ public class Subject {
         this.name = name;
     }
 
-    public String getName() {
+    public java.lang.String getName() {
         return name;
     }
 
