@@ -14,7 +14,7 @@ import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
-public class AttendancesActivity extends CommonAuth {
+public class AttendancesActivity extends AppCompatActivity {
     public DrawerLayout drawerLayout;
     public ActionBarDrawerToggle actionBarDrawerToggle;
 //    private Button btnLogout;
@@ -27,7 +27,6 @@ public class AttendancesActivity extends CommonAuth {
 
         setContentView(R.layout.activity_subjects);
 
-        super.setmAuth(FirebaseAuth.getInstance());
         drawerLayout = findViewById(R.id.id_subjects_layout);
         actionBarDrawerToggle = new ActionBarDrawerToggle(this, drawerLayout, R.string.nav_open, R.string.nav_close);
         drawerLayout.addDrawerListener(actionBarDrawerToggle);
@@ -83,12 +82,7 @@ public class AttendancesActivity extends CommonAuth {
 
         super.onStart();
 
-        FirebaseUser currentUser = super.getmAuth().getCurrentUser();
 
-        if (currentUser == null) {
-            startActivity(new Intent(AttendancesActivity.this, LoginActivity.class));
-
-        }
     }
 
 }

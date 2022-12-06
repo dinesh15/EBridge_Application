@@ -28,7 +28,6 @@ public class FeedbackActivity extends CommonAuth {
 
         setContentView(R.layout.activity_feedback);
 
-        super.setmAuth(FirebaseAuth.getInstance());
         drawerLayout = findViewById(R.id.id_feedback_layout);
         actionBarDrawerToggle = new ActionBarDrawerToggle(this, drawerLayout, R.string.nav_open, R.string.nav_close);
         drawerLayout.addDrawerListener(actionBarDrawerToggle);
@@ -83,12 +82,7 @@ public class FeedbackActivity extends CommonAuth {
 
         super.onStart();
 
-        FirebaseUser currentUser = super.getmAuth().getCurrentUser();
 
-        if (currentUser == null) {
-            startActivity(new Intent(FeedbackActivity.this, LoginActivity.class));
-
-        }
     }
 
 }

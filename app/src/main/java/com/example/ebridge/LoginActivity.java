@@ -15,9 +15,10 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.FirebaseDatabase;
 
-public class LoginActivity extends AppCompatActivity {
-    private FirebaseAuth mAuth;
+public class LoginActivity extends CommonAuth {
+
     private EditText email, password;
     private Button btnLogin;
     private TextView textRegister;
@@ -25,12 +26,16 @@ public class LoginActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        db = FirebaseDatabase.getInstance().getReference().child("E-Bridge");
+
         setContentView(R.layout.activity_login);
-        mAuth = FirebaseAuth.getInstance();
         email = findViewById(R.id.login_email);
         password = findViewById(R.id.login_password);
         btnLogin = findViewById(R.id.login);
         textRegister = findViewById(R.id.text_register);
+
+
+
 
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -58,6 +63,11 @@ public class LoginActivity extends AppCompatActivity {
         if (pass.isEmpty()) {
             password.setError("Password can not be empty");
         } else {
+
+
+
+
+            /*
             mAuth.signInWithEmailAndPassword(user, pass).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                 @Override
                 public void onComplete(@NonNull Task<AuthResult> task) {
@@ -68,7 +78,7 @@ public class LoginActivity extends AppCompatActivity {
                         Toast.makeText(LoginActivity.this, "Login Failed" + task.getException().getMessage(), Toast.LENGTH_SHORT).show();
                     }
                 }
-            });
+            });*/
         }
     }
 }

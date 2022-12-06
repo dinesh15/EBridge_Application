@@ -28,7 +28,6 @@ public class AddSubjectActivity extends CommonAuth {
 
         setContentView(R.layout.activity_add_subject);
 
-        super.setmAuth(FirebaseAuth.getInstance());
         drawerLayout = findViewById(R.id.id_add_subject_layout);
         actionBarDrawerToggle = new ActionBarDrawerToggle(this, drawerLayout, R.string.nav_open, R.string.nav_close);
         drawerLayout.addDrawerListener(actionBarDrawerToggle);
@@ -85,12 +84,6 @@ public class AddSubjectActivity extends CommonAuth {
 
         super.onStart();
 
-        FirebaseUser currentUser = super.getmAuth().getCurrentUser();
-
-        if (currentUser == null) {
-            startActivity(new Intent(AddSubjectActivity.this, LoginActivity.class));
-
-        }
     }
 
 }
