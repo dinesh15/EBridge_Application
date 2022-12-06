@@ -33,36 +33,6 @@ public class AttendancesActivity extends AppCompatActivity {
         actionBarDrawerToggle.syncState();
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        NavigationView navigationView = findViewById(R.id.nav_view);
-
-        navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
-            @Override
-            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                if(item.getItemId() == R.id.nav_home){
-                    Intent l = new Intent(AttendancesActivity.this, MainActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_feedback){
-                    Intent l = new Intent(AttendancesActivity.this, FeedbackActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_profile){
-                    Intent l = new Intent(AttendancesActivity.this, ProfileActivity.class);
-                    startActivity(l);
-                }
-                else  if(item.getItemId() == R.id.nav_add_subject){
-                    Intent l = new Intent(AttendancesActivity.this, AddSubjectActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_Subjects){
-                    Intent l = new Intent(AttendancesActivity.this, SubjectsActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_logout){
-                    // logout();
-                }
-
-                DrawerLayout drawerLayout = findViewById(R.id.id_subjects_layout);
-                drawerLayout.closeDrawer(GravityCompat.START);
-                return true;
-            }
-        });
 
 
     }
