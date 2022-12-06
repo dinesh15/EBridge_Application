@@ -6,16 +6,9 @@
 
 
     <item
-        android:id="@+id/nav_feedbacks"
-        android:title="View Feedbacks" />
-
-    <item
         android:id="@+id/nav_add_subject"
         android:title="Add Subject" />
 
-    <item
-        android:id="@+id/nav_subjects"
-        android:title="View Subjects" />
 
     <item
         android:id="@+id/nav_assign_subject"
@@ -26,26 +19,34 @@
         android:title="Remove Assigned Subject" />
 
 
-
     <item
         android:id="@+id/nav_add_event"
         android:title="Add Event" />
+
+    <item
+        android:id="@+id/nav_add_job"
+        android:title="Add Job" />
+
+
+    <item
+        android:id="@+id/nav_add_alert"
+        android:title="Add Alert" />
+
+    <item
+        android:id="@+id/nav_feedbacks"
+        android:title="View Feedbacks" />
+
+    <item
+        android:id="@+id/nav_subjects"
+        android:title="View Subjects" />
 
     <item
         android:id="@+id/nav_view_events"
         android:title="View Events" />
 
     <item
-        android:id="@+id/nav_add_job"
-        android:title="Add Job" />
-
-    <item
         android:id="@+id/nav_view_jobs"
         android:title="View Jobs" />
-
-    <item
-        android:id="@+id/nav_add_alert"
-        android:title="Add Alert" />
 
     <item
         android:id="@+id/nav_view_alerts"

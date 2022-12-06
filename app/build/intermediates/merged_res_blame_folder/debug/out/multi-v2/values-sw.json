@@ -4,7 +4,24 @@
             "outputFile": "com.example.ebridge.app-mergeDebugResources-34:/values-sw/values-sw.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\839b83960f36d628ccc03c15fb594093\\transformed\\appcompat-1.4.2\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\5527bc66570dfd080c8012d3b845e9e6\\transformed\\play-services-basement-18.1.0\\res\\values-sw\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "141",
+                        "endOffsets": "336"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "4359",
+                        "endColumns": "145",
+                        "endOffsets": "4500"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\839b83960f36d628ccc03c15fb594093\\transformed\\appcompat-1.4.2\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\bd43bf900f904ecf8e27953faa1f55e8\\transformed\\core-1.7.0\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\bd43bf900f904ecf8e27953faa1f55e8\\transformed\\core-1.7.0\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\45d524e4123b2684e95ec935268a140d\\transformed\\material-1.6.1\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\45d524e4123b2684e95ec935268a140d\\transformed\\material-1.6.1\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\105fc5369d499f038ec79ac50ab6f755\\transformed\\navigation-ui-2.4.2\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\105fc5369d499f038ec79ac50ab6f755\\transformed\\navigation-ui-2.4.2\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -74,7 +91,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\707abad5ea80878aba502f49b9b8ab7c\\transformed\\play-services-base-18.0.1\\res\\values-sw\\values.xml",
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\707abad5ea80878aba502f49b9b8ab7c\\transformed\\play-services-base-18.0.1\\res\\values-sw\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -88,23 +105,6 @@
                         "startOffsets": "3344,3448,3604,3729,3838,4001,4126,4245,4505,4670,4776,4930,5057,5207,5366,5434,5509",
                         "endColumns": "103,155,124,108,162,124,118,113,164,105,153,126,149,158,67,74,95",
                         "endOffsets": "3443,3599,3724,3833,3996,4121,4240,4354,4665,4771,4925,5052,5202,5361,5429,5504,5600"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\5527bc66570dfd080c8012d3b845e9e6\\transformed\\play-services-basement-18.1.0\\res\\values-sw\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "141",
-                        "endOffsets": "336"
-                    },
-                    "to": {
-                        "startLines": "45",
-                        "startColumns": "4",
-                        "startOffsets": "4359",
-                        "endColumns": "145",
-                        "endOffsets": "4500"
                     }
                 }
             ]

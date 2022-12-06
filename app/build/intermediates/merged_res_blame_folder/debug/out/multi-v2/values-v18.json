@@ -4,7 +4,7 @@
             "outputFile": "com.example.ebridge.app-mergeDebugResources-34:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\839b83960f36d628ccc03c15fb594093\\transformed\\appcompat-1.4.2\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\839b83960f36d628ccc03c15fb594093\\transformed\\appcompat-1.4.2\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

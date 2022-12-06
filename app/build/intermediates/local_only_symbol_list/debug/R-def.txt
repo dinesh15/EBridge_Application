@@ -98,6 +98,7 @@ layout activity_profile
 layout activity_register
 layout activity_resources
 layout activity_schedules
+layout activity_statuses
 layout activity_student_home
 layout activity_subjects
 menu navigation_menu_admin
