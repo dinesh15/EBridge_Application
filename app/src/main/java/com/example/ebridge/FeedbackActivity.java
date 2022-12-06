@@ -33,36 +33,6 @@ public class FeedbackActivity extends CommonAuth {
         drawerLayout.addDrawerListener(actionBarDrawerToggle);
         actionBarDrawerToggle.syncState();
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        NavigationView navigationView = findViewById(R.id.nav_view);
-
-        navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
-            @Override
-            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                if(item.getItemId() == R.id.nav_home){
-                    Intent l = new Intent(FeedbackActivity.this, MainActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_feedback){
-                    Intent l = new Intent(FeedbackActivity.this, FeedbackActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_profile){
-                    Intent l = new Intent(FeedbackActivity.this, ProfileActivity.class);
-                    startActivity(l);
-                }
-                else  if(item.getItemId() == R.id.nav_add_subject){
-                    Intent l = new Intent(FeedbackActivity.this, AddSubjectActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_Subjects){
-                    Intent l = new Intent(FeedbackActivity.this, SubjectsActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_logout){
-                    // logout();
-                }
-
-                DrawerLayout drawerLayout = findViewById(R.id.id_feedback_layout);
-                drawerLayout.closeDrawer(GravityCompat.START);
-                return true;
-            }
-        });
 
 
     }

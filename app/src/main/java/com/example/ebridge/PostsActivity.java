@@ -28,43 +28,11 @@ public class PostsActivity extends CommonAuth {
 
         setContentView(R.layout.activity_subjects);
 
-        super.setmAuth(FirebaseAuth.getInstance());
         drawerLayout = findViewById(R.id.id_subjects_layout);
         actionBarDrawerToggle = new ActionBarDrawerToggle(this, drawerLayout, R.string.nav_open, R.string.nav_close);
         drawerLayout.addDrawerListener(actionBarDrawerToggle);
         actionBarDrawerToggle.syncState();
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
-        NavigationView navigationView = findViewById(R.id.nav_view);
-
-        navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
-            @Override
-            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                if(item.getItemId() == R.id.nav_home){
-                    Intent l = new Intent(PostsActivity.this, MainActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_feedback){
-                    Intent l = new Intent(PostsActivity.this, FeedbackActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_profile){
-                    Intent l = new Intent(PostsActivity.this, ProfileActivity.class);
-                    startActivity(l);
-                }
-                else  if(item.getItemId() == R.id.nav_add_subject){
-                    Intent l = new Intent(PostsActivity.this, AddSubjectActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_Subjects){
-                    Intent l = new Intent(PostsActivity.this, SubjectsActivity.class);
-                    startActivity(l);
-                }else  if(item.getItemId() == R.id.nav_logout){
-                    // logout();
-                }
-
-                DrawerLayout drawerLayout = findViewById(R.id.id_subjects_layout);
-                drawerLayout.closeDrawer(GravityCompat.START);
-                return true;
-            }
-        });
 
 
     }
@@ -84,12 +52,6 @@ public class PostsActivity extends CommonAuth {
 
         super.onStart();
 
-        FirebaseUser currentUser = super.getmAuth().getCurrentUser();
-
-        if (currentUser == null) {
-            startActivity(new Intent(PostsActivity.this, LoginActivity.class));
-
-        }
     }
 
 }

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home" />
+
+
+    <item
+        android:id="@+id/nav_subjects"
+        android:title="View Subjects" />
+
+    <item
+        android:id="@+id/nav_view_events"
+        android:title="View Events" />
+
+    <item
+        android:id="@+id/nav_view_jobs"
+        android:title="View Jobs" />
+
+    <item
+        android:id="@+id/nav_view_alerts"
+        android:title="View Alerts" />
+
+    <item
+        android:id="@+id/nav_add_post"
+        android:title="Add Resource" />
+
+
+    <item
+        android:id="@+id/nav_posts"
+        android:title="View Posts" />
+
+    <item
+        android:id="@+id/nav_add_reseouce"
+        android:title="Add Resource" />
+
+
+    <item
+        android:id="@+id/nav_resources"
+        android:title="View Resources" />
+
+
+    <item
+        android:id="@+id/nav_add_Status"
+        android:title="Add Status" />
+
+
+    <item
+        android:id="@+id/nav_statuses"
+        android:title="View Statuses" />
+
+
+    <item
+        android:id="@+id/nav_schedules"
+        android:title="View Schedules" />
+
+    <item
+        android:id="@+id/nav_add_attendance"
+        android:title="Add Attendance" />
+
+    <item
+        android:id="@+id/nav_view_attendances"
+        android:title="View Attendances" />
+
+    <item
+        android:id="@+id/nav_add_feedback"
+        android:title="Send Feedback" />
+
+
+    <item
+        android:id="@+id/nav_feedbacks"
+        android:title="View Feedbacks" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="My Profile" />
+
+    <item
+        android:id="@+id/nav_forgot"
+        android:title="Forgot Password" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout" />
+</menu>
