@@ -2,14 +2,20 @@ package com.example.ebridge.Model;
 
 import java.util.ArrayList;
 
-public class User implements UserI{
+public abstract class User implements UserI{
+    private int id;
     private String email;
     private String password;
     private String firstname;
     private String lastname;
     private String address;
 
-    public User(String email, String password, String firstname, String lastname, String address) {
+    public User() {
+
+    }
+
+    public User(int id, String email, String password, String firstname, String lastname, String address) {
+        this.id = id;
         this.email = email;
         this.password = password;
         this.firstname = firstname;
@@ -64,8 +70,5 @@ public class User implements UserI{
 
 
     @Override
-    public void validateUser(String email,String password){
-
-
-    }
+    public  abstract void validateUser(String email,String password);
 }
