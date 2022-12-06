@@ -1,12 +1,12 @@
-#Mon Dec 05 16:45:27 CST 2022
+#Tue Dec 06 03:29:43 PKT 2022
 path.3=5/classes.dex
 path.2=11/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.3=D\:\\Android Application\\EBridge 12-6-2022\\EBridge\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.2=D\:\\Android Application\\EBridge 12-6-2022\\EBridge\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.1=D\:\\Android Application\\EBridge 12-6-2022\\EBridge\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=D\:\\Android Application\\EBridge 12-6-2022\\EBridge\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.3=C\:\\Users\\GNG\\AndroidStudioProjects\\EBridge\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.2=C\:\\Users\\GNG\\AndroidStudioProjects\\EBridge\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.1=C\:\\Users\\GNG\\AndroidStudioProjects\\EBridge\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\GNG\\AndroidStudioProjects\\EBridge\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

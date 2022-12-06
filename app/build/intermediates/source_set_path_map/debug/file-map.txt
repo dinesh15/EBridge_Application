@@ -1,38 +1,38 @@
-com.example.ebridge.app-cardview-1.0.0-0 C:\Users\dines\.gradle\caches\transforms-3\195aaf8fefd0b50e36570027ab235482\transformed\cardview-1.0.0\res
-com.example.ebridge.app-slidingpanelayout-1.2.0-1 C:\Users\dines\.gradle\caches\transforms-3\21795c0d980b819b5c5ba86d8ecd7fd3\transformed\slidingpanelayout-1.2.0\res
-com.example.ebridge.app-emoji2-views-helper-1.0.0-2 C:\Users\dines\.gradle\caches\transforms-3\219dd54638c03047719f5a4ecaa4e374\transformed\emoji2-views-helper-1.0.0\res
-com.example.ebridge.app-core-1.7.0-3 C:\Users\dines\.gradle\caches\transforms-3\2408ae0c6b64e074ad570504f0fa7cb6\transformed\core-1.7.0\res
-com.example.ebridge.app-savedstate-1.1.0-4 C:\Users\dines\.gradle\caches\transforms-3\3ea28c97bc086a304e049da2f7957417\transformed\savedstate-1.1.0\res
-com.example.ebridge.app-window-1.0.0-5 C:\Users\dines\.gradle\caches\transforms-3\4f35a0164930aae3c3ba55fb9db97a07\transformed\window-1.0.0\res
-com.example.ebridge.app-fragment-1.4.1-6 C:\Users\dines\.gradle\caches\transforms-3\51ad050d5dac390e99435fb6b859a999\transformed\fragment-1.4.1\res
-com.example.ebridge.app-lifecycle-runtime-2.4.0-7 C:\Users\dines\.gradle\caches\transforms-3\51b5372542c2a0ec4f051711fa52cbc9\transformed\lifecycle-runtime-2.4.0\res
-com.example.ebridge.app-lifecycle-process-2.4.0-8 C:\Users\dines\.gradle\caches\transforms-3\51c64fceff3430466ae9e0d3dc8f31f3\transformed\lifecycle-process-2.4.0\res
-com.example.ebridge.app-material-1.6.1-9 C:\Users\dines\.gradle\caches\transforms-3\53cd386dece606142369ed2b2f9fbe1c\transformed\material-1.6.1\res
-com.example.ebridge.app-navigation-common-2.4.2-10 C:\Users\dines\.gradle\caches\transforms-3\5501ce566c224ac1ec45d05c7c89b0b4\transformed\navigation-common-2.4.2\res
-com.example.ebridge.app-navigation-runtime-2.4.2-11 C:\Users\dines\.gradle\caches\transforms-3\5e2dc6347096d37c5a09ca0d7de2cdfe\transformed\navigation-runtime-2.4.2\res
-com.example.ebridge.app-emoji2-1.0.0-12 C:\Users\dines\.gradle\caches\transforms-3\6b7d4d3337ad64852ef3b103b7611c2e\transformed\emoji2-1.0.0\res
-com.example.ebridge.app-lifecycle-viewmodel-2.3.1-13 C:\Users\dines\.gradle\caches\transforms-3\6f24b7a71864dda443270008a58d00d2\transformed\lifecycle-viewmodel-2.3.1\res
-com.example.ebridge.app-navigation-fragment-2.4.2-14 C:\Users\dines\.gradle\caches\transforms-3\734da9419f2d9ed49fb0029f1fc55191\transformed\navigation-fragment-2.4.2\res
-com.example.ebridge.app-navigation-ui-2.4.2-15 C:\Users\dines\.gradle\caches\transforms-3\745e2b4311a9e9416023ab332de4f33a\transformed\navigation-ui-2.4.2\res
-com.example.ebridge.app-appcompat-resources-1.4.2-16 C:\Users\dines\.gradle\caches\transforms-3\79bfcd61f1b26fdec9cd60b0f4cd8021\transformed\appcompat-resources-1.4.2\res
-com.example.ebridge.app-play-services-base-17.1.0-17 C:\Users\dines\.gradle\caches\transforms-3\7c8849dfbc210473a087bf29dcdfa85e\transformed\play-services-base-17.1.0\res
-com.example.ebridge.app-transition-1.4.1-18 C:\Users\dines\.gradle\caches\transforms-3\823218381377aee7fd54e23d78a0cde3\transformed\transition-1.4.1\res
-com.example.ebridge.app-recyclerview-1.1.0-19 C:\Users\dines\.gradle\caches\transforms-3\89f8631e81679b720e40a103e216b4d7\transformed\recyclerview-1.1.0\res
-com.example.ebridge.app-coordinatorlayout-1.1.0-20 C:\Users\dines\.gradle\caches\transforms-3\9364d3ce583b7381ba27095e94766e85\transformed\coordinatorlayout-1.1.0\res
-com.example.ebridge.app-startup-runtime-1.0.0-21 C:\Users\dines\.gradle\caches\transforms-3\9b547cb2748e537a40a82232daf7233e\transformed\startup-runtime-1.0.0\res
-com.example.ebridge.app-annotation-experimental-1.1.0-22 C:\Users\dines\.gradle\caches\transforms-3\a88435d2c9f597e7d947bfbfa6a0ceb0\transformed\annotation-experimental-1.1.0\res
-com.example.ebridge.app-play-services-basement-17.0.0-23 C:\Users\dines\.gradle\caches\transforms-3\cce0b4627e9f0951f3dc594483ad5999\transformed\play-services-basement-17.0.0\res
-com.example.ebridge.app-appcompat-1.4.2-24 C:\Users\dines\.gradle\caches\transforms-3\d1278b834c44ef63e0cd766340cc5b6a\transformed\appcompat-1.4.2\res
-com.example.ebridge.app-drawerlayout-1.1.1-25 C:\Users\dines\.gradle\caches\transforms-3\e316f2cc09976915c82d91f17c401c80\transformed\drawerlayout-1.1.1\res
-com.example.ebridge.app-constraintlayout-2.1.4-26 C:\Users\dines\.gradle\caches\transforms-3\f48855be9c3106e104639f34faeaab75\transformed\constraintlayout-2.1.4\res
-com.example.ebridge.app-fragment-ktx-1.4.1-27 C:\Users\dines\.gradle\caches\transforms-3\fa0b29f98dfecf4537046540a92371c8\transformed\fragment-ktx-1.4.1\res
-com.example.ebridge.app-viewpager2-1.0.0-28 C:\Users\dines\.gradle\caches\transforms-3\fb2bad2c3a3209d2e8c085d8af0a7847\transformed\viewpager2-1.0.0\res
-com.example.ebridge.app-google-services-29 D:\Android Application\EBridge 12-6-2022\EBridge\app\build\generated\res\google-services\debug
-com.example.ebridge.app-pngs-30 D:\Android Application\EBridge 12-6-2022\EBridge\app\build\generated\res\pngs\debug
-com.example.ebridge.app-resValues-31 D:\Android Application\EBridge 12-6-2022\EBridge\app\build\generated\res\resValues\debug
-com.example.ebridge.app-rs-32 D:\Android Application\EBridge 12-6-2022\EBridge\app\build\generated\res\rs\debug
-com.example.ebridge.app-packageDebugResources-33 D:\Android Application\EBridge 12-6-2022\EBridge\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.ebridge.app-packageDebugResources-34 D:\Android Application\EBridge 12-6-2022\EBridge\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.ebridge.app-merged_res-35 D:\Android Application\EBridge 12-6-2022\EBridge\app\build\intermediates\merged_res\debug
-com.example.ebridge.app-debug-36 D:\Android Application\EBridge 12-6-2022\EBridge\app\src\debug\res
-com.example.ebridge.app-main-37 D:\Android Application\EBridge 12-6-2022\EBridge\app\src\main\res
+com.example.ebridge.app-cardview-1.0.0-0 C:\Users\GNG\.gradle\caches\transforms-3\195aaf8fefd0b50e36570027ab235482\transformed\cardview-1.0.0\res
+com.example.ebridge.app-slidingpanelayout-1.2.0-1 C:\Users\GNG\.gradle\caches\transforms-3\21795c0d980b819b5c5ba86d8ecd7fd3\transformed\slidingpanelayout-1.2.0\res
+com.example.ebridge.app-emoji2-views-helper-1.0.0-2 C:\Users\GNG\.gradle\caches\transforms-3\219dd54638c03047719f5a4ecaa4e374\transformed\emoji2-views-helper-1.0.0\res
+com.example.ebridge.app-core-1.7.0-3 C:\Users\GNG\.gradle\caches\transforms-3\2408ae0c6b64e074ad570504f0fa7cb6\transformed\core-1.7.0\res
+com.example.ebridge.app-savedstate-1.1.0-4 C:\Users\GNG\.gradle\caches\transforms-3\3ea28c97bc086a304e049da2f7957417\transformed\savedstate-1.1.0\res
+com.example.ebridge.app-window-1.0.0-5 C:\Users\GNG\.gradle\caches\transforms-3\4f35a0164930aae3c3ba55fb9db97a07\transformed\window-1.0.0\res
+com.example.ebridge.app-fragment-1.4.1-6 C:\Users\GNG\.gradle\caches\transforms-3\51ad050d5dac390e99435fb6b859a999\transformed\fragment-1.4.1\res
+com.example.ebridge.app-lifecycle-runtime-2.4.0-7 C:\Users\GNG\.gradle\caches\transforms-3\51b5372542c2a0ec4f051711fa52cbc9\transformed\lifecycle-runtime-2.4.0\res
+com.example.ebridge.app-lifecycle-process-2.4.0-8 C:\Users\GNG\.gradle\caches\transforms-3\51c64fceff3430466ae9e0d3dc8f31f3\transformed\lifecycle-process-2.4.0\res
+com.example.ebridge.app-material-1.6.1-9 C:\Users\GNG\.gradle\caches\transforms-3\53cd386dece606142369ed2b2f9fbe1c\transformed\material-1.6.1\res
+com.example.ebridge.app-navigation-common-2.4.2-10 C:\Users\GNG\.gradle\caches\transforms-3\5501ce566c224ac1ec45d05c7c89b0b4\transformed\navigation-common-2.4.2\res
+com.example.ebridge.app-navigation-runtime-2.4.2-11 C:\Users\GNG\.gradle\caches\transforms-3\5e2dc6347096d37c5a09ca0d7de2cdfe\transformed\navigation-runtime-2.4.2\res
+com.example.ebridge.app-emoji2-1.0.0-12 C:\Users\GNG\.gradle\caches\transforms-3\6b7d4d3337ad64852ef3b103b7611c2e\transformed\emoji2-1.0.0\res
+com.example.ebridge.app-lifecycle-viewmodel-2.3.1-13 C:\Users\GNG\.gradle\caches\transforms-3\6f24b7a71864dda443270008a58d00d2\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.ebridge.app-navigation-fragment-2.4.2-14 C:\Users\GNG\.gradle\caches\transforms-3\734da9419f2d9ed49fb0029f1fc55191\transformed\navigation-fragment-2.4.2\res
+com.example.ebridge.app-navigation-ui-2.4.2-15 C:\Users\GNG\.gradle\caches\transforms-3\745e2b4311a9e9416023ab332de4f33a\transformed\navigation-ui-2.4.2\res
+com.example.ebridge.app-appcompat-resources-1.4.2-16 C:\Users\GNG\.gradle\caches\transforms-3\79bfcd61f1b26fdec9cd60b0f4cd8021\transformed\appcompat-resources-1.4.2\res
+com.example.ebridge.app-play-services-base-17.1.0-17 C:\Users\GNG\.gradle\caches\transforms-3\7c8849dfbc210473a087bf29dcdfa85e\transformed\play-services-base-17.1.0\res
+com.example.ebridge.app-transition-1.4.1-18 C:\Users\GNG\.gradle\caches\transforms-3\823218381377aee7fd54e23d78a0cde3\transformed\transition-1.4.1\res
+com.example.ebridge.app-recyclerview-1.1.0-19 C:\Users\GNG\.gradle\caches\transforms-3\89f8631e81679b720e40a103e216b4d7\transformed\recyclerview-1.1.0\res
+com.example.ebridge.app-coordinatorlayout-1.1.0-20 C:\Users\GNG\.gradle\caches\transforms-3\9364d3ce583b7381ba27095e94766e85\transformed\coordinatorlayout-1.1.0\res
+com.example.ebridge.app-startup-runtime-1.0.0-21 C:\Users\GNG\.gradle\caches\transforms-3\9b547cb2748e537a40a82232daf7233e\transformed\startup-runtime-1.0.0\res
+com.example.ebridge.app-annotation-experimental-1.1.0-22 C:\Users\GNG\.gradle\caches\transforms-3\a88435d2c9f597e7d947bfbfa6a0ceb0\transformed\annotation-experimental-1.1.0\res
+com.example.ebridge.app-play-services-basement-17.0.0-23 C:\Users\GNG\.gradle\caches\transforms-3\cce0b4627e9f0951f3dc594483ad5999\transformed\play-services-basement-17.0.0\res
+com.example.ebridge.app-appcompat-1.4.2-24 C:\Users\GNG\.gradle\caches\transforms-3\d1278b834c44ef63e0cd766340cc5b6a\transformed\appcompat-1.4.2\res
+com.example.ebridge.app-drawerlayout-1.1.1-25 C:\Users\GNG\.gradle\caches\transforms-3\e316f2cc09976915c82d91f17c401c80\transformed\drawerlayout-1.1.1\res
+com.example.ebridge.app-constraintlayout-2.1.4-26 C:\Users\GNG\.gradle\caches\transforms-3\f48855be9c3106e104639f34faeaab75\transformed\constraintlayout-2.1.4\res
+com.example.ebridge.app-fragment-ktx-1.4.1-27 C:\Users\GNG\.gradle\caches\transforms-3\fa0b29f98dfecf4537046540a92371c8\transformed\fragment-ktx-1.4.1\res
+com.example.ebridge.app-viewpager2-1.0.0-28 C:\Users\GNG\.gradle\caches\transforms-3\fb2bad2c3a3209d2e8c085d8af0a7847\transformed\viewpager2-1.0.0\res
+com.example.ebridge.app-google-services-29 C:\Users\GNG\AndroidStudioProjects\EBridge\app\build\generated\res\google-services\debug
+com.example.ebridge.app-pngs-30 C:\Users\GNG\AndroidStudioProjects\EBridge\app\build\generated\res\pngs\debug
+com.example.ebridge.app-resValues-31 C:\Users\GNG\AndroidStudioProjects\EBridge\app\build\generated\res\resValues\debug
+com.example.ebridge.app-rs-32 C:\Users\GNG\AndroidStudioProjects\EBridge\app\build\generated\res\rs\debug
+com.example.ebridge.app-packageDebugResources-33 C:\Users\GNG\AndroidStudioProjects\EBridge\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.ebridge.app-packageDebugResources-34 C:\Users\GNG\AndroidStudioProjects\EBridge\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.ebridge.app-merged_res-35 C:\Users\GNG\AndroidStudioProjects\EBridge\app\build\intermediates\merged_res\debug
+com.example.ebridge.app-debug-36 C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\debug\res
+com.example.ebridge.app-main-37 C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\res

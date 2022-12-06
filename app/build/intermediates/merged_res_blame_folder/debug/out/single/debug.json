@@ -1,71 +1,191 @@
 [
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/drawable_side_nav_bar.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/drawable/side_nav_bar.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_add_schedule.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/layout/activity_add_schedule.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_posts.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_posts.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/menu_navigation_menu_student.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/menu/navigation_menu_student.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_resources.xml.flat",
         "source": "com.example.ebridge.app-main-37:/layout/activity_resources.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_content_drawer.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\content_drawer.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/drawable_ic_menu_camera.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/drawable/ic_menu_camera.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_feedback.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_feedback.xml"
     },
     {
         "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_add_resource.xml.flat",
         "source": "com.example.ebridge.app-main-37:/layout/activity_add_resource.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_posts.xml.flat",
         "source": "com.example.ebridge.app-main-37:/layout/activity_posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_add_subject.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_add_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_nav_header_drawer.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\nav_header_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_drawer.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_add_resource.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_add_resource.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_schedules.xml.flat",
+        "source": "com.example.ebridge.app-main-37:/layout/activity_schedules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_subjects.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_subjects.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_app_bar_drawer.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\app_bar_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_add_attendance.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_add_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\menu_drawer.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\menu\\drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_resources.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_resources.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_add_post.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_schedules.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_schedules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_forgot.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_forgot.xml"
+    },
+    {
+        "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_add_schedule.xml.flat",
+        "source": "com.example.ebridge.app-main-37:/layout/activity_add_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_add_subject.xml.flat",
         "source": "com.example.ebridge.app-main-37:/layout/activity_add_subject.xml"
     },
     {
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
         "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_profile.xml.flat",
         "source": "com.example.ebridge.app-main-37:/layout/activity_profile.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/navigation_mobile_navigation.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/navigation/mobile_navigation.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_add_schedule.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_add_schedule.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.ebridge.app-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\fragment_slideshow.xml"
     },
     {
         "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_add_post.xml.flat",
@@ -76,40 +196,16 @@
         "source": "com.example.ebridge.app-main-37:/layout/activity_subjects.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/drawable_ic_menu_slideshow.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/drawable/ic_menu_slideshow.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_register.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/layout/activity_register.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/xml/data_extraction_rules.xml"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_feedback.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/layout/activity_feedback.xml"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/drawable_ic_menu_gallery.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/drawable/ic_menu_gallery.xml"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_schedules.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/layout/activity_schedules.xml"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/xml_backup_rules.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\menu_navigation_menu_student.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\menu\\navigation_menu_student.xml"
     },
     {
         "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_attendances.xml.flat",
@@ -120,35 +216,19 @@
         "source": "com.example.ebridge.app-main-37:/layout/activity_add_attendance.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_forgot.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/layout/activity_forgot.xml"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_activity_attendances.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\activity_attendances.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\drawable\\ic_menu_camera.xml"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_main.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/layout/activity_main.xml"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/layout_activity_login.xml.flat",
-        "source": "com.example.ebridge.app-main-37:/layout/activity_login.xml"
-    },
-    {
-        "merged": "com.example.ebridge.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ebridge.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-merged_res-35:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\GNG\\.gradle\\daemon\\7.3.3\\com.example.ebridge.app-main-37:\\layout\\fragment_home.xml"
     }
 ]
