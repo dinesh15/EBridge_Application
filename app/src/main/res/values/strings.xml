@@ -17,4 +17,14 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="e_bridge_sign_up">E-Bridge Sign up</string>
+    <string name="your_first_name">Your First Name</string>
+    <string name="your_address">Your Address</string>
+    <string name="existing_user_login">Existing User Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_last_name">Your Last Name</string>
+    <string name="textview">TextView</string>
+    <string name="role">Role</string>
 </resources>

@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/text_login"
         android:layout_marginBottom="20dp"
-        android:hint="Your Email" />
+        android:hint="Your username" />
 
 
     <EditText

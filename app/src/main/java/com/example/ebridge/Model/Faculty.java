@@ -17,10 +17,12 @@ public class Faculty extends User{
 
     }
 
-    public Faculty(int id, String email, String password, String firstname, String lastname, String address, ArrayList<Student> students) {
-        super(id, email, password, firstname, lastname, address);
-        this.students = students;
+    public Faculty(int id, String username, String email, String password, String firstname, String lastname, String address) {
+        super(id, username, email, password, firstname, lastname, address);
+        super.setRole(2);
     }
+
+
 
     public ArrayList<Student> getStudents() {
         return students;
