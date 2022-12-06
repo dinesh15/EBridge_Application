@@ -10,15 +10,11 @@
 
     <item
         android:id="@+id/nav_Subjects"
-        android:title="Feedback" />
+        android:title="Subjects" />
 
     <item
         android:id="@+id/nav_feedback"
         android:title="Feedback" />
-
-
-
-
 
     <item
         android:id="@+id/nav_profile"

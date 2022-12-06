@@ -7,8 +7,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="10dp"
-    tools:context=".MainActivity">
-
+    tools:context=".MainActivity"
+    tools:openDrawer="start">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -22,22 +22,18 @@
             android:layout_centerInParent="true"
             android:layout_marginBottom="20dp"
             android:text="Welcome to E-Bridge Page!"
-            android:textSize="20dp" />
+            android:textSize="24dp" />
 
     </LinearLayout>
-
-
-
-
     <!--    <Button-->
     <!--        android:id="@+id/btnlogout"-->
     <!--        android:layout_width="match_parent"-->
     <!--        android:layout_height="wrap_content"-->
     <!--        android:layout_below="@+id/text_welcome"-->
     <!--        android:text="Log Out" />-->
-
     <com.google.android.material.navigation.NavigationView
         android:layout_width="wrap_content"
+        android:id="@+id/nav_view"
         android:layout_height="match_parent"
         android:layout_gravity="start"
         app:menu="@menu/navigation_menu_student" />
