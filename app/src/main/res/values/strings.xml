@@ -2,4 +2,8 @@
     <string name="app_name">EBridge</string>
     <string name="nav_open">Open</string>
     <string name="nav_close">Close</string>
+    <string name="posts">Posts</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="schedules">Schedules</string>
 </resources>
