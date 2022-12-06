@@ -8,14 +8,22 @@ public class Student extends User{
     private ArrayList<Notification> notifications;
     private ArrayList<Subject> subjects;
     MessageMediator m;
-    public Student() {
+    public Student(){
+
 
     }
 
-    public Student(int id, String email, String password, String firstname, String lastname, String address, String degree, String semester) {
-        super(id, email, password, firstname, lastname, address);
+    public Student(int id, String username, String email, String password, String firstname, String lastname, String address) {
+        super(id, username, email, password, firstname, lastname, address);
+        super.setRole(1);
+    }
+
+
+    public Student(int id, String username, String email, String password, String firstname, String lastname, String address, String degree, String semester) {
+        super(id,username, email, password, firstname, lastname, address);
         this.degree = degree;
         this.semester = semester;
+        super.setRole(1);
     }
 
 

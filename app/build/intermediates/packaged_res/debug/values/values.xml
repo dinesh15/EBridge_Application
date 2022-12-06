@@ -16,7 +16,10 @@
     <string name="app_name">EBridge</string>
     <string name="default_web_client_id" translatable="false">517641689157-1hlo8t9r999pg72hnj6o6uia5husrjml.apps.googleusercontent.com</string>
     <string name="delete">DELETE</string>
+    <string name="e_bridge_sign_up">E-Bridge Sign up</string>
     <string name="edit">EDIT</string>
+    <string name="existing_user_login">Existing User Login</string>
+    <string name="firebase_database_url" translatable="false">https://ebridge-444a0-default-rtdb.firebaseio.com</string>
     <string name="gcm_defaultSenderId" translatable="false">517641689157</string>
     <string name="google_api_key" translatable="false">AIzaSyBD-rgDelfZpBoK2GS408_9nPd77U8E2PA</string>
     <string name="google_app_id" translatable="false">1:517641689157:android:d7486f45b666622270ab2c</string>
@@ -34,8 +37,16 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="posts">Posts</string>
     <string name="project_id" translatable="false">ebridge-444a0</string>
+    <string name="role">Role</string>
     <string name="schedules">Schedules</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="textview">TextView</string>
     <string name="title_activity_drawer">Drawer</string>
+    <string name="your_address">Your Address</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_first_name">Your First Name</string>
+    <string name="your_last_name">Your Last Name</string>
+    <string name="your_password">Your Password</string>
     <style name="Theme.EBridge" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

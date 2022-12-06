@@ -4,17 +4,70 @@
         android:id="@+id/nav_home"
         android:title="Home" />
 
-    <item
-        android:id="@+id/nav_add_subject"
-        android:title="Add Subject" />
 
     <item
-        android:id="@+id/nav_Subjects"
-        android:title="Subjects" />
+        android:id="@+id/nav_add_feedback"
+        android:title="Send Feedback" />
+
 
     <item
-        android:id="@+id/nav_feedback"
-        android:title="Feedback" />
+        android:id="@+id/nav_feedbacks"
+        android:title="View Feedbacks" />
+
+
+    <item
+        android:id="@+id/nav_subjects"
+        android:title="View Subjects" />
+
+    <item
+        android:id="@+id/nav_view_events"
+        android:title="View Events" />
+
+    <item
+        android:id="@+id/nav_view_jobs"
+        android:title="View Jobs" />
+
+    <item
+        android:id="@+id/nav_view_alerts"
+        android:title="View Alerts" />
+
+    <item
+        android:id="@+id/nav_add_schedule"
+        android:title="Add Schedule" />
+
+
+    <item
+        android:id="@+id/nav_schedules"
+        android:title="View Schedules" />
+
+
+    <item
+        android:id="@+id/nav_add_doubt"
+        android:title="Add Doubt" />
+
+
+    <item
+        android:id="@+id/nav_doubts"
+        android:title="View Doubts" />
+
+
+
+    <item
+        android:id="@+id/nav_statuses"
+        android:title="View Statuses" />
+
+    <item
+        android:id="@+id/nav_add_plan"
+        android:title="Add Plan" />
+
+
+    <item
+        android:id="@+id/nav_plans"
+        android:title="View Plans" />
+
+    <item
+        android:id="@+id/nav_view_attendances"
+        android:title="View Attendances" />
 
     <item
         android:id="@+id/nav_profile"

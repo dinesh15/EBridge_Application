@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ebridge.app-mergeDebugResources-33:/values-v23/values-v23.xml",
+            "outputFile": "com.example.ebridge.app-mergeDebugResources-34:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\195aaf8fefd0b50e36570027ab235482\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\52ce679e7bbdb0e0ebc6b01083946002\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\53cd386dece606142369ed2b2f9fbe1c\\transformed\\material-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\45d524e4123b2684e95ec935268a140d\\transformed\\material-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\d1278b834c44ef63e0cd766340cc5b6a\\transformed\\appcompat-1.4.2\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\839b83960f36d628ccc03c15fb594093\\transformed\\appcompat-1.4.2\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
