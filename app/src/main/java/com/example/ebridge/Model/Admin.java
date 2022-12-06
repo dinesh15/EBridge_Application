@@ -19,6 +19,7 @@ public class Admin extends User {
     public Admin(int id,String username, String email, String password, String firstname, String lastname, String address) {
 
         super(id,username, email, password, firstname, lastname, address);
+        super.setRole(3);
         this.subjects = new ArrayList<>();
         this.students = new ArrayList<>();
         this.teachers = new ArrayList<>();

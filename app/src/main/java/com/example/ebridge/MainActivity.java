@@ -4,19 +4,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.Button;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
-import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.auth.FirebaseUser;
-import com.google.firebase.database.FirebaseDatabase;
 
 public class MainActivity extends CommonAuth {
 
@@ -30,10 +23,24 @@ public class MainActivity extends CommonAuth {
 
         super.onCreate(savedInstanceState);
 
-        if(loggedUser == null){
-
+        if (loggedUser == null) {
             Intent l = new Intent(MainActivity.this, LoginActivity.class);
             startActivity(l);
+        } else {
+             Log.d("role",loggedUser.getRole()+"");
+            if (loggedUser.getRole() == 1) {
+                Intent l = new Intent(MainActivity.this, HomeStudentActivity.class);
+                startActivity(l);
+
+            } else if (loggedUser.getRole() == 2) {
+                Intent l = new Intent(MainActivity.this, HomeFacultyActivity.class);
+                startActivity(l);
+
+            } else if (loggedUser.getRole() == 3) {
+                Intent l = new Intent(MainActivity.this, HomeAdminActivity.class);
+                startActivity(l);
+
+            }
         }
 
         setContentView(R.layout.activity_main);
@@ -44,22 +51,10 @@ public class MainActivity extends CommonAuth {
         actionBarDrawerToggle.syncState();
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        navBars(1,MainActivity.this);
+
+        navBars(1, MainActivity.this);
 
 
-
-//        btnLogout = findViewById(R.id.btnlogout);
-//
-//        btnLogout.setOnClickListener(new View.OnClickListener() {
-//
-//            @Override
-//
-//            public void onClick(View v) {
-//
-//                logout();
-//
-//            }
-//        });
     }
 
     @Override
@@ -67,8 +62,6 @@ public class MainActivity extends CommonAuth {
         if (actionBarDrawerToggle.onOptionsItemSelected(item)) {
             return true;
         }
-
-
 
 
         return super.onOptionsItemSelected(item);
