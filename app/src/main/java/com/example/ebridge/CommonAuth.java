@@ -28,20 +28,15 @@ public class CommonAuth  extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
                 if(item.getItemId() == R.id.nav_home){
-                    Log.d("Action","Home");
-                    Intent l = new Intent(contaxt, HomeAdminActivity.class);
-                    startActivity(l);
+                    startActivity(new Intent(contaxt, HomeAdminActivity.class));
                 }else  if(item.getItemId() == R.id.nav_feedbacks){
-                    Log.d("Action","Feedback");
-                    Intent k = new Intent(contaxt, FeedbackActivity.class);
-                    startActivity(k);
+                    startActivity(new Intent(contaxt, FeedbackActivity.class));
                 }else  if(item.getItemId() == R.id.nav_profile){
                     Intent l = new Intent(contaxt, ProfileActivity.class);
                     startActivity(l);
                 }
                 else  if(item.getItemId() == R.id.nav_add_subject){
-                    Intent l = new Intent(contaxt, AddSubjectActivity.class);
-                    startActivity(l);
+                    startActivity(new Intent(contaxt, AddSubjectActivity.class));
                 }else  if(item.getItemId() == R.id.nav_subjects){
                     Intent l = new Intent(contaxt, SubjectsActivity.class);
                     startActivity(l);

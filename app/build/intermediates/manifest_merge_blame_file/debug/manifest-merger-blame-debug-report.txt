@@ -35,379 +35,378 @@
 23-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:10:9-41
 24        android:supportsRtl="true"
 24-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:11:9-35
-25        android:testOnly="true"
-26        android:theme="@style/Theme.EBridge" >
-26-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:12:9-45
-27        <activity
-27-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:14:9-22:20
-28            android:name="com.example.ebridge.MainActivity"
-28-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:15:13-41
-29            android:exported="true" >
-29-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:16:13-36
-30            <intent-filter>
-30-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:17:13-21:29
-31                <action android:name="android.intent.action.MAIN" />
-31-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:18:17-69
-31-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:18:25-66
-32
-33                <category android:name="android.intent.category.LAUNCHER" />
-33-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:20:17-77
-33-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:20:27-74
-34            </intent-filter>
-35        </activity>
-36        <activity
-36-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:23:9-32:20
-37            android:name="com.example.ebridge.LoginActivity"
-37-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:24:13-42
-38            android:exported="true"
-38-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:25:13-36
-39            android:label="@string/app_name" >
-39-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:26:13-45
-40            <intent-filter>
-40-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-41                <action android:name="android.intent.action.VIEW" />
-41-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-41-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-42
-43                <category android:name="android.intent.category.DEFAULT" />
-43-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-43-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-44            </intent-filter>
-45        </activity>
-46        <activity
-46-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:33:9-42:20
-47            android:name="com.example.ebridge.AddSubjectActivity"
-47-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:34:13-47
-48            android:exported="true"
-48-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:35:13-36
-49            android:label="@string/app_name" >
-49-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:36:13-45
-50            <intent-filter>
-50-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-51                <action android:name="android.intent.action.VIEW" />
-51-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-51-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-52
-53                <category android:name="android.intent.category.DEFAULT" />
-53-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-53-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-54            </intent-filter>
-55        </activity>
-56        <activity
-56-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:43:9-52:20
-57            android:name="com.example.ebridge.AttendancesActivity"
-57-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:44:13-48
-58            android:exported="true"
-58-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:45:13-36
-59            android:label="@string/app_name" >
-59-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:46:13-45
-60            <intent-filter>
-60-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-61                <action android:name="android.intent.action.VIEW" />
-61-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-61-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-62
-63                <category android:name="android.intent.category.DEFAULT" />
-63-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-63-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-64            </intent-filter>
-65        </activity>
-66        <activity
-66-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:53:9-62:20
-67            android:name="com.example.ebridge.FeedbackActivity"
-67-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:54:13-45
-68            android:exported="true"
-68-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:55:13-36
-69            android:label="@string/app_name" >
-69-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:56:13-45
-70            <intent-filter>
-70-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-71                <action android:name="android.intent.action.VIEW" />
-71-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-71-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-72
-73                <category android:name="android.intent.category.DEFAULT" />
-73-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-73-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-74            </intent-filter>
-75        </activity>
-76        <activity
-76-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:63:9-72:20
-77            android:name="com.example.ebridge.HomeAdminActivity"
-77-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:64:13-46
-78            android:exported="true"
-78-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:65:13-36
-79            android:label="@string/app_name" >
-79-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:66:13-45
-80            <intent-filter>
-80-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-81                <action android:name="android.intent.action.VIEW" />
-81-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-81-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-82
-83                <category android:name="android.intent.category.DEFAULT" />
-83-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-83-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-84            </intent-filter>
-85        </activity>
-86        <activity
-86-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:73:9-82:20
-87            android:name="com.example.ebridge.HomeFacultyActivity"
-87-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:74:13-48
-88            android:exported="true"
-88-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:75:13-36
-89            android:label="@string/app_name" >
-89-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:76:13-45
-90            <intent-filter>
-90-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-91                <action android:name="android.intent.action.VIEW" />
-91-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-91-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-92
-93                <category android:name="android.intent.category.DEFAULT" />
-93-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-93-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-94            </intent-filter>
-95        </activity>
-96        <activity
-96-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:83:9-92:20
-97            android:name="com.example.ebridge.HomeStudentActivity"
-97-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:84:13-48
-98            android:exported="true"
-98-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:85:13-36
-99            android:label="@string/app_name" >
-99-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:86:13-45
-100            <intent-filter>
-100-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-101                <action android:name="android.intent.action.VIEW" />
-101-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-101-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-102
-103                <category android:name="android.intent.category.DEFAULT" />
-103-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-103-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-104            </intent-filter>
-105        </activity>
-106        <activity
-106-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:93:9-102:20
-107            android:name="com.example.ebridge.PostsActivity"
-107-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:94:13-42
-108            android:exported="true"
-108-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:95:13-36
-109            android:label="@string/app_name" >
-109-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:96:13-45
-110            <intent-filter>
-110-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-111                <action android:name="android.intent.action.VIEW" />
-111-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-111-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-112
-113                <category android:name="android.intent.category.DEFAULT" />
-113-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-113-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-114            </intent-filter>
-115        </activity>
-116        <activity
-116-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:103:9-112:20
-117            android:name="com.example.ebridge.ProfileActivity"
-117-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:104:13-44
-118            android:exported="true"
-118-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:105:13-36
-119            android:label="@string/app_name" >
-119-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:106:13-45
-120            <intent-filter>
-120-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-121                <action android:name="android.intent.action.VIEW" />
-121-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-121-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-122
-123                <category android:name="android.intent.category.DEFAULT" />
-123-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-123-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-124            </intent-filter>
-125        </activity>
-126        <activity
-126-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:113:9-122:20
-127            android:name="com.example.ebridge.RegisterActivity"
-127-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:114:13-45
-128            android:exported="true"
-128-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:115:13-36
-129            android:label="@string/app_name" >
-129-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:116:13-45
-130            <intent-filter>
-130-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-131                <action android:name="android.intent.action.VIEW" />
-131-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-131-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-132
-133                <category android:name="android.intent.category.DEFAULT" />
-133-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-133-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-134            </intent-filter>
-135        </activity>
-136        <activity
-136-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:123:9-132:20
-137            android:name="com.example.ebridge.ResourcesActivity"
-137-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:124:13-46
-138            android:exported="true"
-138-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:125:13-36
-139            android:label="@string/app_name" >
-139-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:126:13-45
-140            <intent-filter>
-140-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-141                <action android:name="android.intent.action.VIEW" />
-141-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-141-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-142
-143                <category android:name="android.intent.category.DEFAULT" />
-143-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-143-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-144            </intent-filter>
-145        </activity>
-146        <activity
-146-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:133:9-142:20
-147            android:name="com.example.ebridge.SchedulesActivity"
-147-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:134:13-46
-148            android:exported="true"
-148-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:135:13-36
-149            android:label="@string/app_name" >
-149-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:136:13-45
-150            <intent-filter>
-150-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-151                <action android:name="android.intent.action.VIEW" />
-151-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-151-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-152
-153                <category android:name="android.intent.category.DEFAULT" />
-153-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-153-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-154            </intent-filter>
-155        </activity>
-156        <activity
-156-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:143:9-152:20
-157            android:name="com.example.ebridge.SubjectsActivity"
-157-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:144:13-45
-158            android:exported="true"
-158-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:145:13-36
-159            android:label="@string/app_name" >
-159-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:146:13-45
-160            <intent-filter>
-160-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
-161                <action android:name="android.intent.action.VIEW" />
-161-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
-161-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
-162
-163                <category android:name="android.intent.category.DEFAULT" />
-163-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
-163-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
-164            </intent-filter>
-165        </activity>
-166        <activity
-166-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
-167            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-167-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
-168            android:excludeFromRecents="true"
-168-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
-169            android:exported="true"
-169-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
-170            android:launchMode="singleTask"
-170-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
-171            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-171-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
-172            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-172-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
-173
-174        <service
-174-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
-175            android:name="com.google.firebase.components.ComponentDiscoveryService"
-175-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
-176            android:directBootAware="true"
-176-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
-177            android:exported="false" >
-177-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
-178            <meta-data
-178-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
-179                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-179-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
-180                android:value="com.google.firebase.components.ComponentRegistrar" />
-180-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
-181            <meta-data
-181-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\GNG\.gradle\caches\transforms-3\c67954b21a3c9881b6a036a0e3aedeb7\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
-182                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
-182-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\GNG\.gradle\caches\transforms-3\c67954b21a3c9881b6a036a0e3aedeb7\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
-183                android:value="com.google.firebase.components.ComponentRegistrar" />
-183-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\GNG\.gradle\caches\transforms-3\c67954b21a3c9881b6a036a0e3aedeb7\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
-184            <meta-data
-184-->[com.google.firebase:firebase-database:20.1.0] C:\Users\GNG\.gradle\caches\transforms-3\1c506c877f69c9ee852179b92ee42c03\transformed\firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
-185                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-185-->[com.google.firebase:firebase-database:20.1.0] C:\Users\GNG\.gradle\caches\transforms-3\1c506c877f69c9ee852179b92ee42c03\transformed\firebase-database-20.1.0\AndroidManifest.xml:32:17-109
-186                android:value="com.google.firebase.components.ComponentRegistrar" />
-186-->[com.google.firebase:firebase-database:20.1.0] C:\Users\GNG\.gradle\caches\transforms-3\1c506c877f69c9ee852179b92ee42c03\transformed\firebase-database-20.1.0\AndroidManifest.xml:33:17-82
-187        </service>
-188
-189        <activity
-189-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\GNG\.gradle\caches\transforms-3\707abad5ea80878aba502f49b9b8ab7c\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-190            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-190-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\GNG\.gradle\caches\transforms-3\707abad5ea80878aba502f49b9b8ab7c\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-191            android:exported="false"
-191-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\GNG\.gradle\caches\transforms-3\707abad5ea80878aba502f49b9b8ab7c\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-192            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-192-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\GNG\.gradle\caches\transforms-3\707abad5ea80878aba502f49b9b8ab7c\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-193
-194        <provider
-194-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
-195            android:name="com.google.firebase.provider.FirebaseInitProvider"
-195-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:26:13-77
-196            android:authorities="com.example.ebridge.firebaseinitprovider"
-196-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:27:13-72
-197            android:directBootAware="true"
-197-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:28:13-43
-198            android:exported="false"
-198-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:29:13-37
-199            android:initOrder="100" />
-199-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:30:13-36
-200
-201        <meta-data
-201-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\GNG\.gradle\caches\transforms-3\5527bc66570dfd080c8012d3b845e9e6\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
-202            android:name="com.google.android.gms.version"
-202-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\GNG\.gradle\caches\transforms-3\5527bc66570dfd080c8012d3b845e9e6\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
-203            android:value="@integer/google_play_services_version" />
-203-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\GNG\.gradle\caches\transforms-3\5527bc66570dfd080c8012d3b845e9e6\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
-204
-205        <provider
-205-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-206            android:name="androidx.startup.InitializationProvider"
-206-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-207            android:authorities="com.example.ebridge.androidx-startup"
-207-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-208            android:exported="false" >
-208-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-209            <meta-data
-209-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-210                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-210-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-211                android:value="androidx.startup" />
-211-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-212            <meta-data
-212-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\GNG\.gradle\caches\transforms-3\53f9d9126b9900c4936510baff61ac6b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-213                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-213-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\GNG\.gradle\caches\transforms-3\53f9d9126b9900c4936510baff61ac6b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-214                android:value="androidx.startup" />
-214-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\GNG\.gradle\caches\transforms-3\53f9d9126b9900c4936510baff61ac6b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-215        </provider>
-216
-217        <uses-library
-217-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-218            android:name="androidx.window.extensions"
-218-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-219            android:required="false" />
-219-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-220        <uses-library
-220-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-221            android:name="androidx.window.sidecar"
-221-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-222            android:required="false" />
-222-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-223    </application>
-224
-225</manifest>
+25        android:theme="@style/Theme.EBridge" >
+25-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:12:9-45
+26        <activity
+26-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:14:9-22:20
+27            android:name="com.example.ebridge.MainActivity"
+27-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:15:13-41
+28            android:exported="true" >
+28-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:16:13-36
+29            <intent-filter>
+29-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:17:13-21:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:18:17-69
+30-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:18:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:20:17-77
+32-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:20:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:23:9-32:20
+36            android:name="com.example.ebridge.LoginActivity"
+36-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:24:13-42
+37            android:exported="true"
+37-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:25:13-36
+38            android:label="@string/app_name" >
+38-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:26:13-45
+39            <intent-filter>
+39-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+40                <action android:name="android.intent.action.VIEW" />
+40-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+40-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+41
+42                <category android:name="android.intent.category.DEFAULT" />
+42-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+42-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:33:9-42:20
+46            android:name="com.example.ebridge.AddSubjectActivity"
+46-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:34:13-47
+47            android:exported="true"
+47-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:35:13-36
+48            android:label="@string/app_name" >
+48-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:36:13-45
+49            <intent-filter>
+49-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+50                <action android:name="android.intent.action.VIEW" />
+50-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+50-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+51
+52                <category android:name="android.intent.category.DEFAULT" />
+52-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+52-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:43:9-52:20
+56            android:name="com.example.ebridge.AttendancesActivity"
+56-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:44:13-48
+57            android:exported="true"
+57-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:45:13-36
+58            android:label="@string/app_name" >
+58-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:46:13-45
+59            <intent-filter>
+59-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+60                <action android:name="android.intent.action.VIEW" />
+60-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+60-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+61
+62                <category android:name="android.intent.category.DEFAULT" />
+62-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+62-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+63            </intent-filter>
+64        </activity>
+65        <activity
+65-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:53:9-62:20
+66            android:name="com.example.ebridge.FeedbackActivity"
+66-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:54:13-45
+67            android:exported="true"
+67-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:55:13-36
+68            android:label="@string/app_name" >
+68-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:56:13-45
+69            <intent-filter>
+69-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+70                <action android:name="android.intent.action.VIEW" />
+70-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+70-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+71
+72                <category android:name="android.intent.category.DEFAULT" />
+72-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+72-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+73            </intent-filter>
+74        </activity>
+75        <activity
+75-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:63:9-72:20
+76            android:name="com.example.ebridge.HomeAdminActivity"
+76-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:64:13-46
+77            android:exported="true"
+77-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:65:13-36
+78            android:label="@string/app_name" >
+78-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:66:13-45
+79            <intent-filter>
+79-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+80                <action android:name="android.intent.action.VIEW" />
+80-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+80-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+81
+82                <category android:name="android.intent.category.DEFAULT" />
+82-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+82-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+83            </intent-filter>
+84        </activity>
+85        <activity
+85-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:73:9-82:20
+86            android:name="com.example.ebridge.HomeFacultyActivity"
+86-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:74:13-48
+87            android:exported="true"
+87-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:75:13-36
+88            android:label="@string/app_name" >
+88-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:76:13-45
+89            <intent-filter>
+89-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+90                <action android:name="android.intent.action.VIEW" />
+90-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+90-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+91
+92                <category android:name="android.intent.category.DEFAULT" />
+92-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+92-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+93            </intent-filter>
+94        </activity>
+95        <activity
+95-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:83:9-92:20
+96            android:name="com.example.ebridge.HomeStudentActivity"
+96-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:84:13-48
+97            android:exported="true"
+97-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:85:13-36
+98            android:label="@string/app_name" >
+98-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:86:13-45
+99            <intent-filter>
+99-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+100                <action android:name="android.intent.action.VIEW" />
+100-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+100-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+101
+102                <category android:name="android.intent.category.DEFAULT" />
+102-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+102-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+103            </intent-filter>
+104        </activity>
+105        <activity
+105-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:93:9-102:20
+106            android:name="com.example.ebridge.PostsActivity"
+106-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:94:13-42
+107            android:exported="true"
+107-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:95:13-36
+108            android:label="@string/app_name" >
+108-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:96:13-45
+109            <intent-filter>
+109-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+110                <action android:name="android.intent.action.VIEW" />
+110-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+110-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+111
+112                <category android:name="android.intent.category.DEFAULT" />
+112-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+112-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+113            </intent-filter>
+114        </activity>
+115        <activity
+115-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:103:9-112:20
+116            android:name="com.example.ebridge.ProfileActivity"
+116-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:104:13-44
+117            android:exported="true"
+117-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:105:13-36
+118            android:label="@string/app_name" >
+118-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:106:13-45
+119            <intent-filter>
+119-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+120                <action android:name="android.intent.action.VIEW" />
+120-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+120-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+121
+122                <category android:name="android.intent.category.DEFAULT" />
+122-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+122-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+123            </intent-filter>
+124        </activity>
+125        <activity
+125-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:113:9-122:20
+126            android:name="com.example.ebridge.RegisterActivity"
+126-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:114:13-45
+127            android:exported="true"
+127-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:115:13-36
+128            android:label="@string/app_name" >
+128-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:116:13-45
+129            <intent-filter>
+129-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+130                <action android:name="android.intent.action.VIEW" />
+130-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+130-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+131
+132                <category android:name="android.intent.category.DEFAULT" />
+132-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+132-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+133            </intent-filter>
+134        </activity>
+135        <activity
+135-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:123:9-132:20
+136            android:name="com.example.ebridge.ResourcesActivity"
+136-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:124:13-46
+137            android:exported="true"
+137-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:125:13-36
+138            android:label="@string/app_name" >
+138-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:126:13-45
+139            <intent-filter>
+139-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+140                <action android:name="android.intent.action.VIEW" />
+140-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+140-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+141
+142                <category android:name="android.intent.category.DEFAULT" />
+142-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+142-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+143            </intent-filter>
+144        </activity>
+145        <activity
+145-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:133:9-142:20
+146            android:name="com.example.ebridge.SchedulesActivity"
+146-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:134:13-46
+147            android:exported="true"
+147-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:135:13-36
+148            android:label="@string/app_name" >
+148-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:136:13-45
+149            <intent-filter>
+149-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+150                <action android:name="android.intent.action.VIEW" />
+150-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+150-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+151
+152                <category android:name="android.intent.category.DEFAULT" />
+152-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+152-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+153            </intent-filter>
+154        </activity>
+155        <activity
+155-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:143:9-152:20
+156            android:name="com.example.ebridge.SubjectsActivity"
+156-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:144:13-45
+157            android:exported="true"
+157-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:145:13-36
+158            android:label="@string/app_name" >
+158-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:146:13-45
+159            <intent-filter>
+159-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:27:13-31:29
+160                <action android:name="android.intent.action.VIEW" />
+160-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:17-69
+160-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:28:25-66
+161
+162                <category android:name="android.intent.category.DEFAULT" />
+162-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:17-76
+162-->C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:30:27-73
+163            </intent-filter>
+164        </activity>
+165        <activity
+165-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+166            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+166-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+167            android:excludeFromRecents="true"
+167-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+168            android:exported="true"
+168-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+169            android:launchMode="singleTask"
+169-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+170            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+170-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+171            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+171-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+172
+173        <service
+173-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+174            android:name="com.google.firebase.components.ComponentDiscoveryService"
+174-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+175            android:directBootAware="true"
+175-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+176            android:exported="false" >
+176-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+177            <meta-data
+177-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+178                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+178-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+179                android:value="com.google.firebase.components.ComponentRegistrar" />
+179-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\GNG\.gradle\caches\transforms-3\deb765a6ca5807e363bfc267e8da17a9\transformed\firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+180            <meta-data
+180-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\GNG\.gradle\caches\transforms-3\c67954b21a3c9881b6a036a0e3aedeb7\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+181                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+181-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\GNG\.gradle\caches\transforms-3\c67954b21a3c9881b6a036a0e3aedeb7\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+182                android:value="com.google.firebase.components.ComponentRegistrar" />
+182-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\GNG\.gradle\caches\transforms-3\c67954b21a3c9881b6a036a0e3aedeb7\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+183            <meta-data
+183-->[com.google.firebase:firebase-database:20.1.0] C:\Users\GNG\.gradle\caches\transforms-3\1c506c877f69c9ee852179b92ee42c03\transformed\firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+184                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+184-->[com.google.firebase:firebase-database:20.1.0] C:\Users\GNG\.gradle\caches\transforms-3\1c506c877f69c9ee852179b92ee42c03\transformed\firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+185                android:value="com.google.firebase.components.ComponentRegistrar" />
+185-->[com.google.firebase:firebase-database:20.1.0] C:\Users\GNG\.gradle\caches\transforms-3\1c506c877f69c9ee852179b92ee42c03\transformed\firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+186        </service>
+187
+188        <activity
+188-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\GNG\.gradle\caches\transforms-3\707abad5ea80878aba502f49b9b8ab7c\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+189            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+189-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\GNG\.gradle\caches\transforms-3\707abad5ea80878aba502f49b9b8ab7c\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+190            android:exported="false"
+190-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\GNG\.gradle\caches\transforms-3\707abad5ea80878aba502f49b9b8ab7c\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+191            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+191-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\GNG\.gradle\caches\transforms-3\707abad5ea80878aba502f49b9b8ab7c\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+192
+193        <provider
+193-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+194            android:name="com.google.firebase.provider.FirebaseInitProvider"
+194-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+195            android:authorities="com.example.ebridge.firebaseinitprovider"
+195-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+196            android:directBootAware="true"
+196-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+197            android:exported="false"
+197-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+198            android:initOrder="100" />
+198-->[com.google.firebase:firebase-common:20.2.0] C:\Users\GNG\.gradle\caches\transforms-3\0dc1000db244e4102c2c0eb9b1815f7c\transformed\firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+199
+200        <meta-data
+200-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\GNG\.gradle\caches\transforms-3\5527bc66570dfd080c8012d3b845e9e6\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+201            android:name="com.google.android.gms.version"
+201-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\GNG\.gradle\caches\transforms-3\5527bc66570dfd080c8012d3b845e9e6\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+202            android:value="@integer/google_play_services_version" />
+202-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\GNG\.gradle\caches\transforms-3\5527bc66570dfd080c8012d3b845e9e6\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+203
+204        <provider
+204-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+205            android:name="androidx.startup.InitializationProvider"
+205-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+206            android:authorities="com.example.ebridge.androidx-startup"
+206-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+207            android:exported="false" >
+207-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+208            <meta-data
+208-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+209                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+209-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+210                android:value="androidx.startup" />
+210-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5ef471f3a8e85d4f335bb2cc44796861\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+211            <meta-data
+211-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\GNG\.gradle\caches\transforms-3\53f9d9126b9900c4936510baff61ac6b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+212                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+212-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\GNG\.gradle\caches\transforms-3\53f9d9126b9900c4936510baff61ac6b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+213                android:value="androidx.startup" />
+213-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\GNG\.gradle\caches\transforms-3\53f9d9126b9900c4936510baff61ac6b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+214        </provider>
+215
+216        <uses-library
+216-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+217            android:name="androidx.window.extensions"
+217-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+218            android:required="false" />
+218-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+219        <uses-library
+219-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+220            android:name="androidx.window.sidecar"
+220-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+221            android:required="false" />
+221-->[androidx.window:window:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\7c724dfae4eda8f7c746d578e681c16d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+222    </application>
+223
+224</manifest>

@@ -1,11 +1,14 @@
 package com.example.ebridge.Model;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
 
 class AdminTest {
 
-    @org.junit.jupiter.api.Test
+    @Test
     void getSubjects() {
+
     }
 
     @org.junit.jupiter.api.Test
