@@ -4,7 +4,7 @@
             "outputFile": "com.example.ebridge.app-mergeDebugResources-26:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dines\\.gradle\\caches\\transforms-3\\abd7a83749ed3322042e99265e5fa8e7\\transformed\\appcompat-1.4.2\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\GNG\\.gradle\\caches\\transforms-3\\d1278b834c44ef63e0cd766340cc5b6a\\transformed\\appcompat-1.4.2\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

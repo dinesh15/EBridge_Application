@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="10dp"
-    tools:context=".LoginActivity">
+    tools:context=".SubjectsActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -57,6 +57,7 @@
 
     <com.google.android.material.navigation.NavigationView
         android:layout_width="wrap_content"
+        android:id="@+id/nav_view"
         android:layout_height="match_parent"
         android:layout_gravity="start"
         app:menu="@menu/navigation_menu_student" />
