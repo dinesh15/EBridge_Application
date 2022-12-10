@@ -2,32 +2,33 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_home"
-        android:title="Home" />
+        android:title="Home Faculty" />
 
 
     <item
-        android:id="@+id/nav_subjects"
+        android:id="@+id/nav_subjects_faculty"
         android:title="View Subjects" />
 
     <item
-        android:id="@+id/nav_view_events"
+        android:id="@+id/nav_events_faculty"
         android:title="View Events" />
 
     <item
-        android:id="@+id/nav_view_jobs"
+        android:id="@+id/nav_jobs_faculty"
         android:title="View Jobs" />
 
     <item
-        android:id="@+id/nav_view_alerts"
+        android:id="@+id/nav_alerts_faculty"
         android:title="View Alerts" />
 
     <item
         android:id="@+id/nav_add_post"
-        android:title="Add Resource" />
+        android:title="Add Post" />
+
 
 
     <item
-        android:id="@+id/nav_posts"
+        android:id="@+id/nav_posts_faculty"
         android:title="View Posts" />
 
     <item
@@ -36,7 +37,7 @@
 
 
     <item
-        android:id="@+id/nav_resources"
+        android:id="@+id/nav_resources_faculty"
         android:title="View Resources" />
 
 
@@ -46,20 +47,17 @@
 
 
     <item
-        android:id="@+id/nav_statuses"
+        android:id="@+id/nav_statuses_faculty"
         android:title="View Statuses" />
 
 
-    <item
-        android:id="@+id/nav_schedules"
-        android:title="View Schedules" />
 
     <item
         android:id="@+id/nav_add_attendance"
         android:title="Add Attendance" />
 
     <item
-        android:id="@+id/nav_view_attendances"
+        android:id="@+id/nav_attendances_view"
         android:title="View Attendances" />
 
     <item
@@ -68,16 +66,13 @@
 
 
     <item
-        android:id="@+id/nav_feedbacks"
+        android:id="@+id/nav_feedbacks_faculty"
         android:title="View Feedbacks" />
 
     <item
-        android:id="@+id/nav_profile"
+        android:id="@+id/nav_faculty_profile"
         android:title="My Profile" />
 
-    <item
-        android:id="@+id/nav_forgot"
-        android:title="Forgot Password" />
 
     <item
         android:id="@+id/nav_logout"

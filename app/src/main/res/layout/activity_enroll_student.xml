@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/id_main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    tools:context=".EnrollStudentActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/assignSubjectTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:minHeight="48dp"
+            android:text="Enroll Student"
+            android:textSize="28dp" />
+
+        <TextView
+            android:id="@+id/selectSubjectText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_below="@+id/assignSubjectTitle"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Select Subject Code"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/subjectSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_below="@+id/selectSubjectText"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/selectStudentText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_below="@+id/assignSubjectTitle"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Select Student"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spinnerStudent"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_below="@+id/selectStudentText"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/enrollStudentButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/spinnerStudent"
+            android:layout_marginTop="50dp"
+            android:text="Assign Subject" />
+    </LinearLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:id="@+id/nav_view"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:menu="@menu/navigation_menu_admin" />
+
+</androidx.drawerlayout.widget.DrawerLayout>

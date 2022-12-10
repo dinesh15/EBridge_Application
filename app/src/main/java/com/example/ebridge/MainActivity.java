@@ -27,17 +27,17 @@ public class MainActivity extends CommonAuth {
             Intent l = new Intent(MainActivity.this, LoginActivity.class);
             startActivity(l);
         } else {
-             Log.d("role",loggedUser.getRole()+"");
+            Log.d("role", loggedUser.getRole() + "");
             if (loggedUser.getRole() == 1) {
-                Intent l = new Intent(MainActivity.this, HomeStudentActivity.class);
+                Intent l = new Intent(MainActivity.this, StudentAlertsActivity.class);
                 startActivity(l);
 
             } else if (loggedUser.getRole() == 2) {
-                Intent l = new Intent(MainActivity.this, HomeFacultyActivity.class);
+                Intent l = new Intent(MainActivity.this, FacultyAlertsActivity.class);
                 startActivity(l);
 
             } else if (loggedUser.getRole() == 3) {
-                Intent l = new Intent(MainActivity.this, HomeAdminActivity.class);
+                Intent l = new Intent(MainActivity.this, AdminHomeActivity.class);
                 startActivity(l);
 
             }
@@ -52,7 +52,7 @@ public class MainActivity extends CommonAuth {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
 
-        navBars(1, MainActivity.this);
+        navBars(MainActivity.this);
 
 
     }

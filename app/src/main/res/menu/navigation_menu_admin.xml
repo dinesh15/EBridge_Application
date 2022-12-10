@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_home"
-        android:title="Home" />
+        android:title="Home Admin" />
 
 
     <item
@@ -15,7 +15,11 @@
         android:title="Assign Subject" />
 
     <item
-        android:id="@+id/nav_unassign_subject"
+        android:id="@+id/nav_enroll_student"
+        android:title="Enroll Student" />
+
+    <item
+        android:id="@+id/nav_remove_assign_subject"
         android:title="Remove Assigned Subject" />
 
 
@@ -33,32 +37,29 @@
         android:title="Add Alert" />
 
     <item
-        android:id="@+id/nav_feedbacks"
+        android:id="@+id/nav_feedbacks_admin"
         android:title="View Feedbacks" />
 
     <item
-        android:id="@+id/nav_subjects"
+        android:id="@+id/nav_view_subjects_admin"
         android:title="View Subjects" />
 
     <item
-        android:id="@+id/nav_view_events"
+        android:id="@+id/nav_view_events_admin"
         android:title="View Events" />
 
     <item
-        android:id="@+id/nav_view_jobs"
+        android:id="@+id/nav_view_jobs_admin"
         android:title="View Jobs" />
 
     <item
-        android:id="@+id/nav_view_alerts"
+        android:id="@+id/nav_view_alerts_admin"
         android:title="View Alerts" />
 
     <item
-        android:id="@+id/nav_profile"
+        android:id="@+id/nav_admin_profile"
         android:title="My Profile" />
 
-    <item
-        android:id="@+id/nav_forgot"
-        android:title="Forgot Password" />
 
     <item
         android:id="@+id/nav_logout"

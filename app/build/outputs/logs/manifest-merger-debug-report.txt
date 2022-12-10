@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-155:12
-INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-155:12
-INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-155:12
-INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-155:12
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-497:12
+INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-497:12
+INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-497:12
+INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-497:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\GNG\.gradle\caches\transforms-3\9b000c43c967e0a17ea993fd492a9a3a\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\GNG\.gradle\caches\transforms-3\105fc5369d499f038ec79ac50ab6f755\transformed\navigation-ui-2.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\GNG\.gradle\caches\transforms-3\45d524e4123b2684e95ec935268a140d\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
@@ -69,27 +69,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GNG\.gradle\cach
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\5d7025d8a9b098747ffc64b457148e61\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\GNG\.gradle\caches\transforms-3\77cc55a86862b3b4d763e452b7a0df0e\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\GNG\.gradle\caches\transforms-3\35e88396bca12b7fe79596b0c974640b\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-155:12
-INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-155:12
-INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-497:12
+INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-497:12
+INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-497:12
 	package
 		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:4:5-34
 		INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-155:12
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-497:12
 		INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-155:12
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:1-497:12
 		INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:6:5-153:19
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:6:5-495:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\GNG\.gradle\caches\transforms-3\45d524e4123b2684e95ec935268a140d\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\GNG\.gradle\caches\transforms-3\45d524e4123b2684e95ec935268a140d\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GNG\.gradle\caches\transforms-3\22a76ca940970daa99d0d01770b549de\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -190,86 +190,358 @@ ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManife
 		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:45:13-36
 	android:name
 		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:44:13-48
-activity#com.example.ebridge.FeedbackActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:53:9-62:20
+activity#com.example.ebridge.AdminHomeActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:54:9-63:20
 	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:56:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:57:13-45
 	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:55:13-36
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:56:13-36
 	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:54:13-45
-activity#com.example.ebridge.HomeAdminActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:63:9-72:20
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:55:13-46
+activity#com.example.ebridge.FacultyHomeActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:64:9-73:20
 	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:66:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:67:13-45
 	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:65:13-36
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:66:13-36
 	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:64:13-46
-activity#com.example.ebridge.HomeFacultyActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:73:9-82:20
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:65:13-48
+activity#com.example.ebridge.StudentHomeActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:74:9-83:20
 	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:76:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:77:13-45
 	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:75:13-36
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:76:13-36
 	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:74:13-48
-activity#com.example.ebridge.HomeStudentActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:83:9-92:20
-	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:86:13-45
-	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:85:13-36
-	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:84:13-48
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:75:13-48
 activity#com.example.ebridge.PostsActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:93:9-102:20
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:84:9-93:20
 	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:96:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:87:13-45
 	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:95:13-36
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:86:13-36
 	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:94:13-42
-activity#com.example.ebridge.ProfileActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:103:9-112:20
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:85:13-42
+activity#com.example.ebridge.StudentProfileActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:94:9-103:20
 	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:106:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:97:13-45
 	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:105:13-36
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:96:13-36
 	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:104:13-44
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:95:13-51
 activity#com.example.ebridge.RegisterActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:113:9-122:20
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:104:9-113:20
 	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:116:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:107:13-45
 	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:115:13-36
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:106:13-36
 	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:114:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:105:13-45
 activity#com.example.ebridge.ResourcesActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:123:9-132:20
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:114:9-123:20
 	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:126:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:117:13-45
 	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:125:13-36
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:116:13-36
 	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:124:13-46
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:115:13-46
 activity#com.example.ebridge.SchedulesActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:133:9-142:20
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:124:9-133:20
 	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:136:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:127:13-45
 	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:135:13-36
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:126:13-36
 	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:134:13-46
-activity#com.example.ebridge.SubjectsActivity
-ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:143:9-152:20
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:125:13-46
+activity#com.example.ebridge.FacultySubjectsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:134:9-143:20
 	android:label
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:146:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:137:13-45
 	android:exported
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:145:13-36
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:136:13-36
 	android:name
-		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:144:13-45
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:135:13-52
+activity#com.example.ebridge.StudentSubjectsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:144:9-153:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:147:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:146:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:145:13-52
+activity#com.example.ebridge.AdminSubjectsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:154:9-163:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:157:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:156:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:155:13-50
+activity#com.example.ebridge.AddJobActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:164:9-173:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:167:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:166:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:165:13-43
+activity#com.example.ebridge.AddAlertActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:174:9-183:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:177:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:176:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:175:13-45
+activity#com.example.ebridge.AddEventActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:184:9-193:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:187:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:186:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:185:13-45
+activity#com.example.ebridge.AdminJobsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:194:9-203:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:197:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:196:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:195:13-46
+activity#com.example.ebridge.FacultyJobsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:204:9-213:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:207:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:206:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:205:13-48
+activity#com.example.ebridge.StudentJobsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:214:9-223:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:217:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:216:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:215:13-48
+activity#com.example.ebridge.AdminEventsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:224:9-233:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:227:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:226:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:225:13-48
+activity#com.example.ebridge.StudentEventsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:234:9-243:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:237:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:236:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:235:13-50
+activity#com.example.ebridge.FacultyEventsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:244:9-253:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:247:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:246:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:245:13-50
+activity#com.example.ebridge.AdminAlertsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:254:9-263:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:257:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:256:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:255:13-48
+activity#com.example.ebridge.FacultyAlertsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:264:9-273:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:267:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:266:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:265:13-50
+activity#com.example.ebridge.StudentAlertsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:274:9-283:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:277:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:276:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:275:13-50
+activity#com.example.ebridge.AdminFeedbacksActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:284:9-293:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:287:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:286:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:285:13-51
+activity#com.example.ebridge.AdminProfileActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:294:9-303:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:297:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:296:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:295:13-49
+activity#com.example.ebridge.FacultyProfileActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:304:9-313:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:307:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:306:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:305:13-51
+activity#com.example.ebridge.FacultyPostsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:314:9-323:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:317:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:316:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:315:13-49
+activity#com.example.ebridge.FacultySchedulesActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:324:9-333:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:327:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:326:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:325:13-53
+activity#com.example.ebridge.FacultyStatusesActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:334:9-343:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:337:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:336:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:335:13-52
+activity#com.example.ebridge.FacultyFeedbacksActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:344:9-353:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:347:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:346:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:345:13-53
+activity#com.example.ebridge.FacultyResourcesActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:354:9-363:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:357:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:356:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:355:13-53
+activity#com.example.ebridge.StudentFeedbacksActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:364:9-373:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:367:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:366:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:365:13-53
+activity#com.example.ebridge.StudentDoubtsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:374:9-383:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:377:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:376:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:375:13-50
+activity#com.example.ebridge.StudentPlansActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:384:9-393:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:387:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:386:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:385:13-49
+activity#com.example.ebridge.StudentStatusesActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:394:9-403:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:397:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:396:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:395:13-52
+activity#com.example.ebridge.StudentSchedulesActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:404:9-413:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:407:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:406:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:405:13-53
+activity#com.example.ebridge.StudentResourcesActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:414:9-423:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:417:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:416:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:415:13-53
+activity#com.example.ebridge.StudentPostsActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:424:9-433:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:427:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:426:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:425:13-49
+activity#com.example.ebridge.StudentAttendancesActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:434:9-443:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:437:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:436:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:435:13-55
+activity#com.example.ebridge.AssignSubjectActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:444:9-453:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:447:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:446:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:445:13-50
+activity#com.example.ebridge.RemoveAssignSubjectActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:454:9-463:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:457:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:456:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:455:13-56
+activity#com.example.ebridge.AddPostActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:464:9-473:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:467:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:466:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:465:13-44
+activity#com.example.ebridge.EnrollStudentActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:474:9-483:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:477:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:476:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:475:13-50
+activity#com.example.ebridge.AddFeedbackActivity
+ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:484:9-493:20
+	android:label
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:487:13-45
+	android:exported
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:486:13-36
+	android:name
+		ADDED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml:485:13-48
 uses-sdk
 INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\GNG\AndroidStudioProjects\EBridge\app\src\main\AndroidManifest.xml

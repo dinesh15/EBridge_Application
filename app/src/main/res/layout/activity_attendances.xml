@@ -3,11 +3,11 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/id_subjects_layout"
+    android:id="@+id/id_main_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="10dp"
-    tools:context=".ResourcesActivity">
+    tools:context=".AttendancesActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -15,45 +15,20 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/titleForgot"
+            android:id="@+id/pageTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textPersonName"
             android:minHeight="48dp"
             android:text="Attendances"
-            android:textSize="28sp"
-            tools:ignore="TextViewEdits" />
+            android:textSize="28dp" />
 
         <androidx.recyclerview.widget.RecyclerView
-            android:layout_width="371dp"
-            android:layout_height="588dp" />
-
-        <LinearLayout
+            android:id="@+id/attendancesListView"
             android:layout_width="match_parent"
-            android:layout_height="75dp"
-            android:orientation="horizontal">
+            android:layout_height="match_parent" />
 
-            <Button
-                android:id="@+id/login2"
-                android:layout_width="150dp"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="40dp"
-                android:layout_marginTop="10dp"
-                android:text="@string/edit"
-                style="?android:attr/buttonBarButtonStyle" />
 
-            <Button
-                android:id="@+id/login3"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="10dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginEnd="50dp"
-                android:layout_weight="1"
-                android:text="@string/delete"
-                style="?android:attr/buttonBarButtonStyle" />
-        </LinearLayout>
     </LinearLayout>
 
     <com.google.android.material.navigation.NavigationView

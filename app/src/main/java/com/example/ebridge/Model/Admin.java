@@ -6,7 +6,7 @@ public class Admin extends User {
 
     private ArrayList<Subject> subjects;
     private ArrayList<Student> students;
-    private ArrayList<Faculty> teachers;
+    private ArrayList<Faculty> faculties;
 
     private ArrayList<Feedback> feedbacks;
 
@@ -22,7 +22,7 @@ public class Admin extends User {
         super.setRole(3);
         this.subjects = new ArrayList<>();
         this.students = new ArrayList<>();
-        this.teachers = new ArrayList<>();
+        this.faculties = new ArrayList<>();
         this.feedbacks = new ArrayList<>();
         this.notifications = new ArrayList<>();
         this.m = m;
@@ -31,9 +31,10 @@ public class Admin extends User {
     public Admin(int id,String username, String email, String password, String firstname, String lastname, String address, ArrayList<Subject> subjects, ArrayList<Student> students, ArrayList<Faculty> teachers, ArrayList<Feedback> feedbacks, ArrayList<Notification> notifications, MessageMediator m) {
 
         super(id,username, email, password, firstname, lastname, address);
+        super.setRole(3);
         this.subjects = subjects;
         this.students = students;
-        this.teachers = teachers;
+        this.faculties = teachers;
         this.feedbacks = feedbacks;
         this.notifications = notifications;
         this.m = m;
@@ -55,12 +56,12 @@ public class Admin extends User {
         this.students = students;
     }
 
-    public ArrayList<Faculty> getTeachers() {
-        return teachers;
+    public ArrayList<Faculty> getFaculties() {
+        return faculties;
     }
 
-    public void setTeachers(ArrayList<Faculty> teachers) {
-        this.teachers = teachers;
+    public void setFacultys(ArrayList<Faculty> teachers) {
+        this.faculties = teachers;
     }
 
     public ArrayList<Notification> getNotifications() {

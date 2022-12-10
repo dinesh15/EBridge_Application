@@ -27,6 +27,14 @@ public abstract class User implements UserI{
         this.address = address;
     }
 
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
     public String getEmail() {
         return email;
     }

@@ -7,12 +7,10 @@ import android.media.Image;
 public class Post {
     private String title;
     private String details;
-    private Image img;
 
-    public Post(String title, String details, Image img) {
+    public Post(String title, String details) {
         this.title = title;
         this.details = details;
-        this.img = img;
     }
 
     public String getTitle() {
@@ -30,14 +28,4 @@ public class Post {
     public void setDetails(String details) {
         this.details = details;
     }
-
-    public Image getImg() {
-        return img;
-    }
-
-    public void setImg(Image img) {
-        this.img = img;
-    }
-
-
 }

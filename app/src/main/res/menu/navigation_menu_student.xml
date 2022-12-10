@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_home"
-        android:title="Home" />
+        android:title="Home Student" />
 
 
     <item
@@ -11,24 +11,24 @@
 
 
     <item
-        android:id="@+id/nav_feedbacks"
+        android:id="@+id/nav_feedbacks_student"
         android:title="View Feedbacks" />
 
 
     <item
-        android:id="@+id/nav_subjects"
+        android:id="@+id/nav_subjects_student"
         android:title="View Subjects" />
 
     <item
-        android:id="@+id/nav_view_events"
+        android:id="@+id/nav_events_student"
         android:title="View Events" />
 
     <item
-        android:id="@+id/nav_view_jobs"
+        android:id="@+id/nav_jobs_student"
         android:title="View Jobs" />
 
     <item
-        android:id="@+id/nav_view_alerts"
+        android:id="@+id/nav_alerts_student"
         android:title="View Alerts" />
 
     <item
@@ -37,7 +37,7 @@
 
 
     <item
-        android:id="@+id/nav_schedules"
+        android:id="@+id/nav_schedules_student"
         android:title="View Schedules" />
 
 
@@ -47,13 +47,13 @@
 
 
     <item
-        android:id="@+id/nav_doubts"
+        android:id="@+id/nav_doubts_student"
         android:title="View Doubts" />
 
 
 
     <item
-        android:id="@+id/nav_statuses"
+        android:id="@+id/nav_statuses_student"
         android:title="View Statuses" />
 
     <item
@@ -62,20 +62,25 @@
 
 
     <item
-        android:id="@+id/nav_plans"
+        android:id="@+id/nav_plans_student"
         android:title="View Plans" />
 
     <item
-        android:id="@+id/nav_view_attendances"
+        android:id="@+id/nav_posts_student"
+        android:title="View Posts" />
+
+    <item
+        android:id="@+id/nav_resources_student"
+        android:title="View Resources" />
+
+    <item
+        android:id="@+id/nav_attendances_student"
         android:title="View Attendances" />
 
     <item
-        android:id="@+id/nav_profile"
+        android:id="@+id/nav_student_profile"
         android:title="My Profile" />
 
-    <item
-        android:id="@+id/nav_forgot"
-        android:title="Forgot Password" />
 
     <item
         android:id="@+id/nav_logout"
