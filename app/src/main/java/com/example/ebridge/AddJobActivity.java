@@ -58,6 +58,7 @@ public class AddJobActivity extends CommonAuth {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         navBars(AddJobActivity.this);
+        // new comment 
         addjobBT.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
