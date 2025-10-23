@@ -59,6 +59,7 @@ public class AddJobActivity extends CommonAuth {
 
         navBars(AddJobActivity.this);
         // new comment 
+        // anoteher comment
         addjobBT.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
